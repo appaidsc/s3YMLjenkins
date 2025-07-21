@@ -5,4 +5,4 @@ Resources:
     S3BucketCore:
       Type: 'AWS::S3::Bucket'
       Properties:
-          BucketName: my-jenkins-created-bucket-12345
+          BucketName: my-jenkins-created-bucket-789
